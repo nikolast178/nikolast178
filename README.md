@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/nikolast178/nikolast178/output/snake.svg](https://github.com/nikolast178/workflows/blob/main/snake.yml)" alt="Snake animation" />
+<img src="https://github.com/nikolast178/workflows/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 
