@@ -82,10 +82,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://i0.wp.com/bg-gamer.com/wp-content/uploads/2022/03/cropped-Logo-2.png?fit=512%2C512&ssl=1"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikolast178.nikolast178&left_color=darkolivegreen&right_color=darkcyan&left_text=The%20Necrotic%20visitors"  />
 </div>
 
 ###
