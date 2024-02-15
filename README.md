@@ -78,7 +78,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/nikolast178/workflows/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nikolast178/workflows/blob/git-profile/snake.svg" alt="Snake animation" />
 
 ###
 
